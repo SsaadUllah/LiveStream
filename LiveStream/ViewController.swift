@@ -7,8 +7,6 @@
 //
 
 import UIKit
-import FBSDKCoreKit
-import FBSDKLoginKit
 
 class ViewController: UIViewController {
     
@@ -16,7 +14,6 @@ class ViewController: UIViewController {
     //2. searchContAboveRange
     //3. searchContAboveValueTwoSignals
     //4. searchMultiContWithinRange
-    
     
     let kCSVFileName = "latestSwing"
     let kCSVFileExtension = "csv"
